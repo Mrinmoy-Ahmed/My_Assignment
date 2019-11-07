@@ -1,0 +1,46 @@
+body{
+	margin: 0px;
+	background-color: #80808052;
+}
+.container{
+	background-color: #7a8596;
+	color: #0a0000;
+	text-align: center;
+	margin: auto;
+	width: 1000px;
+}
+h1{
+	margin: 10px;
+}
+p{
+	margin: 20px;
+	text-align: center;
+	margin-left: auto;
+}
+img{
+	max-width: 100%;
+	width: 200px;
+}
+.box{
+	width: 80%;
+	margin: auto;
+}
+table{
+	width: 80%;
+	margin: auto;
+	background-color: white;
+}
+tr:nth-child(odd){
+	text-align: center;
+	background-color: #1b4df137;
+}
+th{
+	padding: 5px;
+	font-size: 35px;
+	background-color: #1b4df140;
+}
+td{
+	font-size: 20px;
+	padding: 2px;
+	background-color: #1b4df120;
+}
